@@ -1,0 +1,3 @@
+Introducir una linea vacia indica que ha finalizado la bitacora.
+La salida de éste programa sería:
+350
